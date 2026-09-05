@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <g fill="none">
+    <!-- WABCO Letters -->
+    <text x="100" y="35" font-family="'Plus Jakarta Sans', 'Arial Black', sans-serif" font-size="24" font-weight="900" fill="#38bdf8" text-anchor="middle" letter-spacing="4">WABCO</text>
+    <text x="100" y="47" font-family="'Inter', sans-serif" font-size="7.5" font-weight="700" fill="#94a3b8" text-anchor="middle" letter-spacing="2">ZF GROUP • SISTEMAS ABS/EBS</text>
+  </g>
+</svg>

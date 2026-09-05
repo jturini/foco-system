@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <g fill="none">
+    <!-- Blue Arrow/Diamond Symbol -->
+    <g transform="translate(12, 14)">
+      <rect x="0" y="0" width="32" height="32" rx="6" fill="#0284c7"/>
+      <path d="M8 16 L24 16 M16 8 L24 16 L16 24" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- Text -->
+    <text x="56" y="32" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="900" fill="#ffffff" letter-spacing="0.5">KNORR-BREMSE</text>
+    <text x="57" y="44" font-family="'Inter', sans-serif" font-size="7.5" font-weight="600" fill="#38bdf8" letter-spacing="1.5">SISTEMAS PARA VEÍCULOS</text>
+  </g>
+</svg>
